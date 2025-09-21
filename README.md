@@ -1,7 +1,8 @@
 Web3j: Web3 Java Ethereum Dapp API
 ==================================
 
-This is the project forked from Web3J, which is a great project for Java users
+This is the project forked from Web3J, which is a great project for Java users.
+The forked project will support many more blockchains, including non-block related "chains", eg. Hedera.
 
 [![Documentation Status](https://readthedocs.org/projects/web3j-docs/badge/?version=latest)](https://docs.web3j.io)
 [![build status](https://github.com/web3j/web3j/actions/workflows/build.yml/badge.svg)](https://github.com/web3j/web3j/actions/workflows/build.yml)
