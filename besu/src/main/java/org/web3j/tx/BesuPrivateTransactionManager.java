@@ -20,7 +20,6 @@ import org.web3j.utils.Restriction;
 
 @Deprecated
 public class BesuPrivateTransactionManager extends PrivateTransactionManager {
-
     /**
      * Creates a LegacyPrivateTransactionManager
      *
